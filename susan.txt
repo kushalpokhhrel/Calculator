@@ -1,0 +1,4 @@
+Name: Susan Pun
+Sem: Second
+Level: Bachelor
+Faculty: Computer Engineering
