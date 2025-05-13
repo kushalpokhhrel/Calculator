@@ -1,2 +1,4 @@
 # Calculator
-sagar and kushal
+Sagar Nepali
+Kushal Pokhrel
+Susan Pun
