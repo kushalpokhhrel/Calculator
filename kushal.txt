@@ -1,0 +1,4 @@
+Name= Kushal Pokhrel
+Level = Bachelor
+Faculty = Computer engineering
+sem = 2nd
